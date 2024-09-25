@@ -1,2 +1,6 @@
 # TPE-WEB-2
-Venta de componentes de pc
+TEMA: Venta de componentes de PC 
+Las tablas van a ser: Productos: ID, NOMBRE_PRODUCTOS, CATEGORIA, PRECIO Y MARCA.
+                      Categoria: ID, NOMBRE_CATEGORIA. 
+
+

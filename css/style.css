@@ -1,0 +1,32 @@
+    body{
+        background-color: #E6E6FA;
+    }
+    .text-violet {
+        color: #800080; /* Color violeta */
+    }
+
+    .bg-violet {
+        background-color: #DDA0DD; /* Color violeta claro */
+    }
+
+    .btn-violet {
+        background-color: #BA55D3; /* Otro tono de violeta */
+        border-color: #BA55D3;
+    }
+ 
+    .table-dark {
+        background-color: #FFFFFF; /* Blanco */
+        color: #FFFFFF; /* Gris oscuro para el texto */
+    }
+    .btn-success {
+        background-color: #800080; /* Violeta */
+        border-color: #800080; 
+    }
+    .btn-success:hover {
+        background-color: #663399; /* Violeta más oscuro al pasar el mouse */
+        border-color: #663399; 
+    }
+    
+    .table-striped tbody tr td:empty {
+        color: white; 
+      }
